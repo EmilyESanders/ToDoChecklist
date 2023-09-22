@@ -1,0 +1,19 @@
+#container{
+    display: flex;
+    justify-content: center;
+}
+
+#ul{
+    color: red;
+}
+
+body{
+    background-color: rgb(151, 248, 151);
+    color: rgba(31, 11, 206, 0.849);
+    /* -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 1px; */
+    /* paint-order: stroke fill; */
+    /* text-shadow: 2px 0 0 black, 1px 0 0 black, 1px 0 0 black, 1px 0 0 black; */
+    font-family: sans-serif;
+    font-size: 30px;
+}
